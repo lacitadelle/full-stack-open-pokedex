@@ -5,3 +5,6 @@ dist/**
 
 # Or if your tests are in a specific directory
 test/**
+
+# ignore cypress
+cypress/**
