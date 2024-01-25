@@ -8,3 +8,4 @@ test/**
 
 # ignore cypress
 cypress/**
+cypress.config.js
