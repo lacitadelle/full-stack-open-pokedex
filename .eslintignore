@@ -1,3 +1,7 @@
-webpack.config.js
-node_modules/
-dist/
+# .eslintignore
+
+# Ignore all files in the dist directory
+dist/**
+
+# Or if your tests are in a specific directory
+test/**
